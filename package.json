@@ -1,0 +1,24 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "web crawler http",
+  "homepage": "https://github.com/MasonCarver/web-crawler-http#readme",
+  "bugs": {
+    "url": "https://github.com/MasonCarver/web-crawler-http/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasonCarver/web-crawler-http.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
